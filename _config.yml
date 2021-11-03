@@ -72,8 +72,12 @@ permalink:             /:categories/:year-:month-:day-:title/
 paginate:              10
 paginate_path:         /:num/
 
+# Theme
+# ---------------------------------------------------------------------------------------
 
-remote_theme:          hydecorp/hydejack
+# theme: jekyll-theme-hydejack
+remote_theme:          hydecorp/hydejack@v9.0.4
+# ---------------------------------------------------------------------------------------
 
 
 accent_image:          /assets/sidebar.jpg

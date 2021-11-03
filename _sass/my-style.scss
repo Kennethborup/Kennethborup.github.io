@@ -13,10 +13,18 @@
   }
 }
 
+// Remove navigation bar completely
 #_navbar {
   display: none
 }
 
+// Reduce padding above content since navigation bar is removed
 .content {
   padding: 4rem 1rem 12rem
+}
+
+// Remove borders of publications
+.publication {
+    border: 1px solid #CCC;
+    border-collapse: collapse;
 }

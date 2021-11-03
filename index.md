@@ -19,7 +19,20 @@ hide_description: true
 2
 
 ## Publications
-3
+<table class="publication">
+<thead>
+  <tr>
+    <td rowspan="3">Image</td>
+    <td>Header</td>
+  </tr>
+  <tr>
+    <td>Author<br>Venue</td>
+  </tr>
+  <tr>
+    <td>Links&nbsp;&nbsp;&nbsp;linkt link</td>
+  </tr>
+</thead>
+</table>
 
 ## Contact
 4

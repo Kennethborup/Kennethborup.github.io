@@ -19,7 +19,7 @@ hide_description: true
 2
 
 ## Publications
-<table class="publication" width=100%>
+<table class="smaller">
 <tbody>
   <tr>
     <td rowspan="3" width=40%><img src="assets/publication_thumbnails/self_distill.png" width=100%></td>

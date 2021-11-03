@@ -38,6 +38,25 @@ keywords:              []
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  /assets/photo.png
 
+# This should be the same author as first entry in `_data/authors.yml`.
+author:
+  name:                Kenneth Borup
+  email:               kennethborup@math.au.dk
+  # Used by `jekyll-seo-tag`:
+  twitter:             KennethBorup
+  
+# Add links to the sidebar.
+menu:
+  - title:             About
+    url:               /#about
+  - title:             Research
+    url:               /#research
+  - title:             Publications
+    url:               /#publications
+  - title:             Contact
+    url:               /#contact-me
+
+
 remote_theme:          hydecorp/hydejack
 
 

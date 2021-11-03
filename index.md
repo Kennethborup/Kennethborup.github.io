@@ -19,19 +19,19 @@ hide_description: true
 2
 
 ## Publications
-<table class="publication">
-<thead>
+<table class="publication" width=100%>
+<tbody>
   <tr>
-    <td rowspan="3">Image</td>
-    <td>Header</td>
+    <td rowspan="3" width=40%><img src="assets/publication_thumbnails/self_distill.png" width=100%></td>
+    <td width=60%><a href="https://https://arxiv.org/abs/2102.13088" target="_blank"><b>Even Your Teacher Needs Guidance: Ground-Truth Targets Dampen Regularization Imposed by Self-Distillation</b></a></td>
   </tr>
   <tr>
-    <td>Author<br>Venue</td>
+    <td width=60%><b>Kenneth Borup</b>, Lars N. Andersen<br><i>NeurIPS 2021</i></td>
   </tr>
   <tr>
-    <td>Links&nbsp;&nbsp;&nbsp;linkt link</td>
+    <td width=60%>Paper&emsp;<a href="https://https://arxiv.org/abs/2102.13088" target="_blank">arXiv</a>&emsp;Code</td>
   </tr>
-</thead>
+</tbody>
 </table>
 
 ## Contact

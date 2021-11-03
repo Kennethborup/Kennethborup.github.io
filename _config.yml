@@ -265,3 +265,34 @@ hydejack:
 
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true
+
+# Collections
+# ----------------------------------------------------------------------------------------
+
+collections:
+  featured_categories:
+    permalink:         /:name/
+    output:            true
+
+  featured_tags:
+    permalink:         /tag-:name/
+    output:            true
+
+  projects:
+    permalink:         /projects/:path/
+    output:            true
+
+
+# File inclusion/exclusion
+# ----------------------------------------------------------------------------------------
+
+exclude:
+  - .jekyll-cache
+  - .sass-cache
+  - '*.toml'
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+include:
+  - .well-known
+  - LICENSE.md

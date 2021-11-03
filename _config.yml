@@ -150,9 +150,11 @@ defaults:
         type:          WebPage
 
 kramdown:
-  math_engine:         mathjax
-  math_engine_opts:    {}
   footnote_backlink:   '&#x21a9;&#xfe0e;'
+  math_engine:         mathjax
+  math_engine_opts:
+    preview:           true
+    preview_as_code:   true
 
  3rd Party Integrations
 # ----------------------------------------------------------------------------------------
@@ -315,3 +317,28 @@ plugins:
   - jekyll-include-cache
   - jekyll-last-modified-at
 
+# Plugin Configs
+# ---------------------------------------------------------------------------------------
+optional_front_matter:
+  remove_originals:    true
+
+readme_index:
+  remove_originals:    true
+  with_frontmatter:    true
+
+relative_links:
+  collections:         true
+
+titles_from_headings:
+  strip_title:         true
+  collections:         true
+
+compress_html:
+  comments:            ["<!-- ", " -->"]
+  clippings:           all
+  endings:             all
+  ignore:
+    envs:              [development]
+
+sass:
+  style:               compressed

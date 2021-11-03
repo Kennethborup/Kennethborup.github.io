@@ -1,3 +1,0 @@
-## Kenneth Borup
-
-> This pages is under development...

@@ -37,6 +37,7 @@ Som info about research here...
   </tr>
 </tbody>
 </table>
+{:.publication}
 
 ## Teaching
 Some teaching here...

@@ -19,6 +19,11 @@ hide_description: true
 2
 
 ## Publications
+
+| tall cell | normal cell   |
+| ^^ a      | normal cell   |
+| ^^ b      | normal cell   |
+
 <table>
 <tbody>
   <tr>

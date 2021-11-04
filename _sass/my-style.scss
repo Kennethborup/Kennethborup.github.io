@@ -42,6 +42,15 @@ table.publication:not(.highlight) tbody tr:nth-child(odd) td {
     background-color: transparent;
 }
 
+// Fix padding of publication table
+table.publication:not(.highlight) td:first-child,
+table.publication:not(.highlight) th:first-child,
+table.publication:not(.highlight) td:last-child,
+table.publication:not(.highlight) th:last-child{
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
 // Remove underline of header links
 .content a.header:not(.btn):not(.no-hover) {
     text-decoration-color: transparent;

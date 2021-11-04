@@ -34,8 +34,8 @@
     border-collapse: collapse;
 }
 
-table, td, th {
+table:not(.highlight) tbody tr:nth-child(odd) td {
     border: 0px solid #CCC;
     border-collapse: collapse;
-    background-color:transparent;
+    background-color: transparent;
 }

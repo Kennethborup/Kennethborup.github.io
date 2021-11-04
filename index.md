@@ -8,10 +8,15 @@ hide_description: true
 ---
 
 # About
-This page is under development...
-{:.note}
 
-About me here...
+Hi!    
+I am a Ph.D. student in Statistics at [Aarhus University](https://au.dk){:target="_blank"} in the [Centre for Digitalisation, Big Data and Data Analytics (DIGIT)](https://digit.au.dk/){:target="_blank"}}.
+My main research interests are broadly in (theoretical) machine learning and deep learning, mainly from the perspective of computer vision. Currently, I am working on explaining distillation techniques. The practical benefits of distillation have been proven many times, but the understanding of how, when and why these techniques work lack behind.
+
+Previously, I completed my M.Sc. in Statistics at [Aarhus University](https://au.dk){:target="_blank"} with a semester at [UC Berkeley](https://www.berkeley.edu/){:target="_blank"}, and I obtained my B.Sc. in Mathematics at [Aalborg University](https://aau.dk){:target="_blank"}.
+
+
+
 <div class="body-social">
     <ul>
 		<li> <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=KsFyMREAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" title="Google Scholar" class="no-mark-external">
@@ -33,10 +38,8 @@ About me here...
 	</ul>
 </div>
 
-# Research
-Som info about research here...
 
-# Publications
+# Peer Reviewed Publications
 
 <table>
 <tbody>
@@ -59,9 +62,32 @@ Som info about research here...
 </table>
 {:.publication}
 
+# Projects
+<table>
+<tbody>
+  <tr>
+    <td rowspan=3><img class="pub_thumb" src="assets/project_thumbnails/keras_thumb.png"></td>
+    <td><a class="header" href="https://keras.io/examples/vision/knowledge_distillation/" target="_blank"><b>Knowledge Distillation (Keras)</b></a></td>
+  </tr>
+  <tr>
+    <td><b>Kenneth Borup</b><br><i>Keras Code Examples</i></td>
+  </tr>
+  <tr>
+    <td>
+       <a href="https://keras.io/examples/vision/knowledge_distillation/" target="_blank">Code Example</a>
+    </td>
+  </tr>
+</tbody>
+</table>
+{:.publication}
+
 # Teaching
-Some teaching here...
-Some teaching here...
+| Course      						| Where	    		| When	    			|
+| ----------------------------------------------------- | ---------------------	| -----------------------------	|
+| Introduction to Data Science				| Aarhus University    	| 2021 (Fall), 2020 (Fall)	|
+| Introduction to Statistics and Probability Theory	| Aarhus University    	| 2021 (Fall), 2020 (Fall)	|
+| Data Project						| Aarhus University    	| 2021 (Spring)			|
+
 
 # Contact
 										  

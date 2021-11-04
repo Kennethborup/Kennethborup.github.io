@@ -28,6 +28,12 @@
     max-width: 58rem;
 }
 
+// Sidebar logo size
+.sidebar-about .avatar {
+    width: 10rem;
+    height: 10rem;
+}
+
 // Remove borders of publications
 table.publication:not(.highlight) tbody tr:nth-child(even) td,
 table.publication:not(.highlight) tbody tr:nth-child(odd) td {

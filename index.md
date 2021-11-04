@@ -20,7 +20,6 @@ hide_description: true
 
 ## Publications
 
-
 <table>
 <tbody>
   <tr>
@@ -31,7 +30,12 @@ hide_description: true
     <td><b>Kenneth Borup</b>, Lars N. Andersen<br><i>Advances In Neural Information Processing Systems (<b>NeurIPS</b>), 2021</i></td>
   </tr>
   <tr>
-    <td>Paper&emsp;<a href="https://https://arxiv.org/abs/2102.13088" target="_blank">arXiv</a>&emsp;Code</td>
+    <td><a href="https://https://arxiv.org/abs/2102.13088" target="_blank">Paper</a>
+	  &emsp;
+	<a href="https://https://arxiv.org/abs/2102.13088" target="_blank">arXiv</a>
+          &emsp;
+	<a href=https://github.com/Kennethborup/self_distillation" target="_blank">Code</a>
+    </td>
   </tr>
 </tbody>
 </table>

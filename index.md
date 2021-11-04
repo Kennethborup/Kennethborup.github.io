@@ -44,8 +44,8 @@ Some teaching here...
 
 ## Contact
 										  
-Department of Mathematics,
-Aarhus University,
-118 Ny Munkegade,
-8000 Aarhus C, Denmark
+Department of Mathematics,  
+Aarhus University,  
+118 Ny Munkegade,  
+8000 Aarhus C, Denmark  
 <a href='mailto&#58;kenn&#37;65thb&#111;r&#117;&#112;&#64;m%6&#49;t%&#54;8&#46;au&#46;%6&#52;%&#54;B'>ke&#110;&#110;ethboru&#112;&#64;mat&#104;&#46;au&#46;dk</a>

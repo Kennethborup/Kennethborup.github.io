@@ -12,7 +12,7 @@ This page is under development...
 {:.note}
 
 About me here...
-<div class="body-social sidebar-social">
+<div class="body-social">
     <ul>
 		<li> <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=KsFyMREAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" title="Google Scholar" class="no-mark-external">
 			<span class="icon-googlescholar"></span>

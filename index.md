@@ -31,7 +31,7 @@ hide_description: true
 	  &emsp;
 	<a href="https://https://arxiv.org/abs/2102.13088" target="_blank">arXiv</a>
           &emsp;
-	<a href=https://github.com/Kennethborup/self_distillation" target="_blank">Code</a>
+	<a href="https://github.com/Kennethborup/self_distillation" target="_blank">Code</a>
     </td>
   </tr>
 </tbody>

@@ -24,7 +24,7 @@ hide_description: true
 <table>
 <tbody>
   <tr>
-    <td rowspan=3><img src="assets/publication_thumbnails/self_distill.png"></td></td>
+    <td rowspan=3><img src="assets/publication_thumbnails/self_distill.png"></td>
     <td><a href="https://https://arxiv.org/abs/2102.13088" target="_blank"><b>Even Your Teacher Needs Guidance: Ground-Truth Targets Dampen Regularization Imposed by Self-Distillation</b></a></td>
   </tr>
   <tr>

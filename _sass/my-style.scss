@@ -82,33 +82,3 @@ img.pub_thumb {
 }
 
 // Body social media tabs
-.body-social > ul {
-  display: inline-block;
-  list-style: none;
-  margin-bottom: 0;
-  overflow: hidden;
-  padding-left: 0;
-}
-
-.body-social > ul > li {
-  float: left;
-  padding-right: 1.25rem;
-}
-
-.body-social > ul > li > a {
-  display: inline;
-  text-align: center;
-  font-size: 1rem;
-  padding: 0.5rem 0;
-  line-height: 3rem;
-  text-decoration: none;
-  border-bottom-width: 2px;
-  border-bottom-style: solid;
-}
-
-.body-social > ul > li > a > .sr-only{ 
-    display: inline;
-    position: absolute;
-    overflow: unset;
-    clip: unset;
-}

@@ -82,6 +82,7 @@ Previously, I completed my M.Sc. in Statistics at [Aarhus University](https://au
 {:.publication}
 
 # Teaching
+
 | Course      						| Where	    		| When	    			|
 | ----------------------------------------------------- | ---------------------	| -----------------------------	|
 | Introduction to Data Science				| Aarhus University    	| 2021 (Fall), 2020 (Fall)	|

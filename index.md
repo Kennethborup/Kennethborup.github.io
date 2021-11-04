@@ -86,9 +86,9 @@ Check out my work below or reach out!
 
 | Course      						| Where	    		| When	    			|
 | ----------------------------------------------------- | ---------------------	| -----------------------------	|
-| Introduction to Data Science				| Aarhus University    	| 2021 (Fall), 2020 (Fall)	|
-| Introduction to Statistics and Probability Theory	| Aarhus University    	| 2021 (Fall), 2020 (Fall)	|
-| Data Project						| Aarhus University    	| 2021 (Spring)			|
+| **Introduction to Data Science**			| Aarhus University    	| 2021 (Fall), 2020 (Fall)	|
+| **Introduction to Statistics and Probability Theory**	| Aarhus University    	| 2021 (Fall), 2020 (Fall)	|
+| **Data Project**					| Aarhus University    	| 2021 (Spring)			|
 
 
 # Contact

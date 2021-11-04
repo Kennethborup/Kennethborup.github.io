@@ -27,7 +27,7 @@ hide_description: true
   </tr>
   <tr>
     <td>a</td>
-    <td><b>Kenneth Borup</b>, Lars N. Andersen<br><i>NeurIPS 2021</i></td>
+    <td><b>Kenneth Borup</b>, Lars N. Andersen<br><i>Advances In Neural Information Processing Systems (<b>NeurIPS</b>), 2021</i></td>
   </tr>
   <tr>
     <td>a</td>

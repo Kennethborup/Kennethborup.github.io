@@ -15,6 +15,7 @@ My main research interests are broadly in (theoretical) machine learning and dee
 
 Previously, I completed my M.Sc. in Statistics at [Aarhus University](https://au.dk){:target="_blank"} with a semester at [UC Berkeley](https://www.berkeley.edu/){:target="_blank"}, and I obtained my B.Sc. in Mathematics at [Aalborg University](https://aau.dk){:target="_blank"}.
 
+Check out my work below or reach out!
 
 
 <div class="body-social">

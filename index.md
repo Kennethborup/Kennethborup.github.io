@@ -7,10 +7,10 @@ description: >
 hide_description: true
 ---
 
-> This page is under development...
-
 # About
-About me here...
+This page is under development...
+{:.note}
+
 About me here...
 
 # Research

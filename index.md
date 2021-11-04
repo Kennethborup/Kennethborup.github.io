@@ -10,10 +10,11 @@ hide_description: true
 > This page is under development...
 
 ## About
-1
+About me here...
+About me here...
 
 ## Research
-2
+Som info about research here...
 
 ## Publications
 
@@ -36,6 +37,10 @@ hide_description: true
   </tr>
 </tbody>
 </table>
+
+## Teaching
+Some teaching here...
+Some teaching here...
 
 ## Contact
 										  

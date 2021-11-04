@@ -1,14 +1,11 @@
 ---
 layout: page
 name: index
-title: Personal Website
+title: Kenneth Borup
 description: >
   Personal Website of Kenneth Borup, Ph.D. student in Statistics and Machine Learning at Aarhus University.
 hide_description: true
 ---
-<!-- <script type="text/javascript">
-	document.getElementsByClassName("page-title")[0].classList.add("sr-only");
-</script> -->
 
 > This page is under development...
 
@@ -41,4 +38,9 @@ hide_description: true
 </table>
 
 ## Contact
-4
+										  
+Department of Mathematics,
+Aarhus University,
+118 Ny Munkegade,
+8000 Aarhus C, Denmark
+<a href='mailto&#58;kenn&#37;65thb&#111;r&#117;&#112;&#64;m%6&#49;t%&#54;8&#46;au&#46;%6&#52;%&#54;B'>ke&#110;&#110;ethboru&#112;&#64;mat&#104;&#46;au&#46;dk</a>

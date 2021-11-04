@@ -21,7 +21,7 @@ Som info about research here...
 <table>
 <tbody>
   <tr>
-    <td rowspan=3><img src="assets/publication_thumbnails/self_distill.png"></td>
+    <td rowspan=3><img class="pub_thumb" src="assets/publication_thumbnails/self_distill.png"></td>
     <td><a class="header" href="https://https://arxiv.org/abs/2102.13088" target="_blank"><b>Even Your Teacher Needs Guidance: Ground-Truth Targets Dampen Regularization Imposed by Self-Distillation</b></a></td>
   </tr>
   <tr>

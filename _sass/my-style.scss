@@ -33,7 +33,7 @@
     border: 0px solid #CCC;
     border-collapse: collapse;
 }
-
+table:not(.highlight) tbody tr:nth-child(even) td,
 table:not(.highlight) tbody tr:nth-child(odd) td {
     border: 0px solid #CCC;
     border-collapse: collapse;

@@ -41,3 +41,24 @@ table.publication:not(.highlight) tbody tr:nth-child(odd) td {
     text-decoration-color: transparent;
 }
   
+// Give menu items regular weight for v9
+html {
+    --font-weight-heading: 600;
+}
+
+// Sidebar menu font size
+.sidebar-nav-item {
+    font-size: 1rem;
+}
+
+// Reduce top margin and weight of headings
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    margin-top: 0; 
+    font-weight: 600;
+}
+
+// Publication thumbnail
+img.pub_thumb {
+    max-width: 100%;
+    max-height: 13rem;
+}

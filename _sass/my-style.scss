@@ -14,17 +14,29 @@
 }
 
 // Remove navigation bar completely
-#_navbar {
-  display: none
-}
+// #_navbar {
+//  display: none
+// }
 
 // Reduce padding above content since navigation bar is removed
+// .content {
+//   padding: 4rem 1rem 12rem
+// }
+
+// Wider main content (standard is 48)
 .content {
-  padding: 4rem 1rem 12rem
+    max-width: 58rem;
 }
 
 // Remove borders of publications
 .publication {
+    border: 0px solid #CCC;
+    border-collapse: collapse;
+}
+
+body .tablelines table, 
+body .tablelines td, 
+body .tablelines th {
     border: 0px solid #CCC;
     border-collapse: collapse;
 }

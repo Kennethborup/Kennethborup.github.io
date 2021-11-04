@@ -14,17 +14,51 @@
 }
 
 // Remove navigation bar completely
-#_navbar {
-  display: none
-}
+// #_navbar {
+//  display: none
+// }
 
 // Reduce padding above content since navigation bar is removed
+// .content {
+//   padding: 4rem 1rem 12rem
+// }
+
+// Wider main content (standard is 48)
 .content {
-  padding: 4rem 1rem 12rem
+    max-width: 58rem;
 }
 
 // Remove borders of publications
-.publication {
+table.publication:not(.highlight) tbody tr:nth-child(even) td,
+table.publication:not(.highlight) tbody tr:nth-child(odd) td {
     border: 0px solid #CCC;
     border-collapse: collapse;
+    background-color: transparent;
+}
+
+// Remove underline of header links
+.content a.header:not(.btn):not(.no-hover) {
+    text-decoration-color: transparent;
+}
+  
+// Give menu items regular weight for v9
+html {
+    --font-weight-heading: 600;
+}
+
+// Sidebar menu font size
+.sidebar-nav-item {
+    font-size: 1rem;
+}
+
+// Reduce top margin and weight of headings
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    margin-top: 0; 
+    font-weight: 600;
+}
+
+// Publication thumbnail
+img.pub_thumb {
+    max-width: 100%;
+    max-height: 13rem;
 }

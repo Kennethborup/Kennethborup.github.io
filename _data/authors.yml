@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 K.Borup:
   name:              Kenneth Borup
-  email:             kennethborup@math.au.dk
+  email:             kenn&#37;65thb&#111;r&#117;&#112;&#64;m%6&#49;t%&#54;8&#46;au&#46;%6&#52;%&#54;B
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -26,10 +26,10 @@ K.Borup:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
+    googlescholar:   KsFyMREAAAAJ
     twitter:         KennethBorup
     github:          Kennethborup
-    email:           kennethborup@math.au.dk
-    googlescholar:   KsFyMREAAAAJ
+    email:           kenn&#37;65thb&#111;r&#117;&#112;&#64;m%6&#49;t%&#54;8&#46;au&#46;%6&#52;%&#54;B
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <username>

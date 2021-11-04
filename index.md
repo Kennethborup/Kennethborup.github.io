@@ -22,7 +22,7 @@ hide_description: true
 <table>
 <tbody>
   <tr>
-    <td width=40%><img src="assets/publication_thumbnails/self_distill.png" width=100%></td>
+    <td width=40%>b</td>
     <td width=60%><a href="https://https://arxiv.org/abs/2102.13088" target="_blank"><b>Even Your Teacher Needs Guidance: Ground-Truth Targets Dampen Regularization Imposed by Self-Distillation</b></a></td>
   </tr>
   <tr>

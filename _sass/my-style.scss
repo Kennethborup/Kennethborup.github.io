@@ -82,3 +82,27 @@ img.pub_thumb {
 }
 
 // Body social media tabs
+.body-social > ul {
+    display: inline-block;
+    padding: 0;
+}
+
+.body-social > ul > li {
+    display: inline;
+    padding-right: 1.25rem;
+}
+
+.body-social > ul > li > a {
+    /* display: contents; */
+    /* text-align: center; */
+    font-size: 1rem;
+    padding: 0.5rem 0;
+    line-height: 2.5rem;
+    text-decoration: none;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+}
+
+.body-social > ul > li > a > span.sr-only {
+    display: contents;
+}

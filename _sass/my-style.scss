@@ -29,8 +29,8 @@
 }
 
 // Remove borders of publications
-.publication table:not(.highlight) tbody tr:nth-child(even) td,
-.publication table:not(.highlight) tbody tr:nth-child(odd) td {
+table.publication:not(.highlight) tbody tr:nth-child(even) td,
+table.publication:not(.highlight) tbody tr:nth-child(odd) td {
     border: 0px solid #CCC;
     border-collapse: collapse;
     background-color: transparent;

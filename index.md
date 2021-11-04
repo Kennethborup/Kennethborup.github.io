@@ -26,9 +26,11 @@ hide_description: true
     <td width=60%><a href="https://https://arxiv.org/abs/2102.13088" target="_blank"><b>Even Your Teacher Needs Guidance: Ground-Truth Targets Dampen Regularization Imposed by Self-Distillation</b></a></td>
   </tr>
   <tr>
+    <td width=40%>a</td>
     <td width=60%><b>Kenneth Borup</b>, Lars N. Andersen<br><i>NeurIPS 2021</i></td>
   </tr>
   <tr>
+    <td width=40%>a</td>
     <td width=60%>Paper&emsp;<a href="https://https://arxiv.org/abs/2102.13088" target="_blank">arXiv</a>&emsp;Code</td>
   </tr>
 </tbody>

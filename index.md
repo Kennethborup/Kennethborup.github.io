@@ -9,14 +9,14 @@ hide_description: true
 
 > This page is under development...
 
-## About
+# About
 About me here...
 About me here...
 
-## Research
+# Research
 Som info about research here...
 
-## Publications
+# Publications
 
 <table>
 <tbody>
@@ -39,11 +39,11 @@ Som info about research here...
 </table>
 {:.publication}
 
-## Teaching
+# Teaching
 Some teaching here...
 Some teaching here...
 
-## Contact
+# Contact
 										  
 Department of Mathematics,  
 Aarhus University,  

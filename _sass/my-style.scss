@@ -108,4 +108,7 @@ img.pub_thumb {
 
 .body-social > ul > li > a > .sr-only{ 
     display: inline;
+    position: absolute;
+    overflow: unset;
+    clip: unset;
 }

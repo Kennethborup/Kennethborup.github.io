@@ -35,3 +35,9 @@ table.publication:not(.highlight) tbody tr:nth-child(odd) td {
     border-collapse: collapse;
     background-color: transparent;
 }
+
+// Remove underline of header links
+.content a.header:not(.btn):not(.no-hover) {
+    text-decoration-color: transparent;
+}
+  

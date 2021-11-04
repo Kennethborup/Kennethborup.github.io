@@ -20,28 +20,17 @@ hide_description: true
 
 ## Publications
 
-| :        Fruits \|\| Food       : |||
-| :--------- | :-------- | :--------  |
-| Apple      | : Apple : | Apple      \
-| Banana     |   Banana  | Banana     \
-| Orange     |   Orange  | Orange     |
-| :   Rowspan is 4    : || How's it?  |
-|^^    A. Peach         ||   1. Fine :|
-|^^    B. Orange        ||^^ 2. Bad   |
-|^^    C. Banana        ||  It's OK!  |
 
 <table>
 <tbody>
   <tr>
-    <td>b</td>
+    <td rowspan=3>b</td>
     <td><a href="https://https://arxiv.org/abs/2102.13088" target="_blank"><b>Even Your Teacher Needs Guidance: Ground-Truth Targets Dampen Regularization Imposed by Self-Distillation</b></a></td>
   </tr>
   <tr>
-    <td>a</td>
     <td><b>Kenneth Borup</b>, Lars N. Andersen<br><i>Advances In Neural Information Processing Systems (<b>NeurIPS</b>), 2021</i></td>
   </tr>
   <tr>
-    <td>a</td>
     <td>Paper&emsp;<a href="https://https://arxiv.org/abs/2102.13088" target="_blank">arXiv</a>&emsp;Code</td>
   </tr>
 </tbody>
